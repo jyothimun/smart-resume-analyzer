@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+backend/.env
+backend/screener.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+.venv/

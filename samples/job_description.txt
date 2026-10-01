@@ -1,0 +1,13 @@
+Title: Full Stack Developer Associate
+We are hiring a Full Stack Developer Associate to build and maintain web applications used by our operations team.
+You will design REST APIs in Python with Flask or Node.js and Express, build responsive interfaces in React,
+and model data in MySQL or MongoDB. You will work with Git and GitHub, write unit tests, and collaborate in an Agile team.
+
+Requirements:
+- Strong fundamentals in Data Structures and Algorithms and object oriented programming
+- Hands-on experience with JavaScript, React, HTML and CSS
+- Backend experience with Python, Flask or Node.js, and building REST APIs
+- Database skills: SQL, MySQL, MongoDB
+- Familiarity with Git, GitHub and Docker is a plus
+- Interest in machine learning and NLP is a bonus
+- Good communication skills and a habit of solving problems methodically

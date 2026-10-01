@@ -1,0 +1,20 @@
+Sneha Patel
+sneha.patel@example.com | +91 99887 76655
+
+Summary
+Frontend developer who cares about accessible, responsive interfaces.
+
+Education
+B.Sc Computer Science, 2026
+
+Skills
+HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Bootstrap, Figma, Git, GitHub, Vite, Jest
+
+Projects
+Portfolio Website - React, Vite and Tailwind CSS with responsive layouts.
+E-commerce UI - React, Redux and REST APIs consumed from a mock backend.
+Weather App - JavaScript, HTML and CSS using a public REST API.
+
+Experience
+Frontend Intern, 4 months. Built React components, wrote unit tests with Jest and worked in an Agile team.
+Good communication and teamwork.

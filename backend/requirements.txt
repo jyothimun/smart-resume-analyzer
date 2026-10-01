@@ -1,0 +1,7 @@
+flask
+flask-cors
+pdfplumber
+docx2txt
+scikit-learn
+requests
+python-dotenv

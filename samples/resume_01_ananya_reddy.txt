@@ -1,0 +1,23 @@
+Ananya Reddy
+ananya.reddy@example.com | +91 98765 43210 | github.com/ananyareddy
+
+Summary
+Final-year Computer Science student focused on full stack web development and applied machine learning.
+
+Education
+B.Tech in Computer Science and Technology, 2027, CGPA 8.9/10
+
+Skills
+Python, JavaScript, React, Node.js, Express, Flask, HTML, CSS, MySQL, MongoDB, REST APIs, Git, GitHub, Docker, Data Structures, Algorithms, OOP
+
+Projects
+Smart Resume Screener - Built a Flask and React application that ranks resumes using TF-IDF and NLP. Designed REST APIs and a SQLite database.
+Farm Advisor - MERN stack app that recommends crops using a scikit-learn model. Deployed using Docker.
+Inventory Manager - Node.js and Express backend with MySQL, unit tests with Jest, Agile sprints with a team of four.
+
+Experience
+Full Stack Developer Intern, 6 months. Built REST APIs and React dashboards, reviewed pull requests on GitHub.
+
+Achievements
+Winner of a college hackathon. Solved 400 problems on LeetCode focusing on data structures and algorithms.
+Strong communication skills and a methodical problem solving approach.

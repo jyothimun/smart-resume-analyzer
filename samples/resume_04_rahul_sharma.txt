@@ -1,0 +1,19 @@
+Rahul Sharma
+rahul.sharma@example.com | +91 90000 11122
+
+Summary
+Data science enthusiast interested in machine learning and analytics.
+
+Education
+B.Tech Computer Science, 2027
+
+Skills
+Python, Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, SQL, Excel, Power BI, Jupyter, Statistics, NLP
+
+Projects
+House Price Prediction - regression models with scikit-learn and Pandas.
+Sentiment Analysis - NLP pipeline with TF-IDF and logistic regression.
+Sales Dashboard - Power BI and SQL reporting.
+
+Certifications
+Machine Learning specialization, Data Analysis with Python.

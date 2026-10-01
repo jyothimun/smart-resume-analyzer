@@ -1,0 +1,18 @@
+Karthik Varma
+karthik.varma@example.com | +91 91234 56780
+
+Objective
+Backend developer who enjoys building reliable APIs.
+
+Education
+B.Tech Information Technology, 2026
+
+Technical Skills
+Java, Spring Boot, MySQL, PostgreSQL, REST APIs, Git, Maven, JUnit, Linux, Docker, Kubernetes, AWS
+
+Experience
+Software Engineer Intern, 1 year experience building Spring Boot microservices with PostgreSQL. Wrote unit tests with JUnit and deployed services using Docker on AWS.
+
+Projects
+Library Management System - Java, Spring Boot and MySQL with REST APIs.
+Chat Service - microservices with Redis and Docker.
